@@ -1,0 +1,9 @@
+[core]
+	autocrlf = false
+[user]
+	email = austin2118ace@gmail.com
+	name = Austin Pauley
+[init]
+	defaultBranch = main
+[credential]
+	helper = cache --timeout=600
