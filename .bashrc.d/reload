@@ -1,0 +1,2 @@
+
+alias reload_bashrc='source  ~/.bashrc'
