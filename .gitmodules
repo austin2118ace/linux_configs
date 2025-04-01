@@ -1,6 +1,0 @@
-[submodule "bash-git-prompt"]
-	path = bash-git-prompt
-	url = git@github.com:magicmonty/bash-git-prompt
-[submodule "tpm"]
-	path = tpm
-	url = git@github.com:tmux-plugins/tpm
