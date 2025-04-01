@@ -1,0 +1,3 @@
+#!/bin/bash
+
+alias activate='source /home/austin/bash_scripts/activate.sh'
