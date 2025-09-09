@@ -4,6 +4,7 @@
 # This script is triggered any time there is a network change; if an active ethernet connection is found
 # The Wireless radio is disabled
 # Specifically useful for me at FSU where some resources are not available over WiFi and are blocked
+# https://blog.christophersmart.com/2021/11/02/automatically-enable-and-disable-wifi-based-on-ethernet-connection-with-networkmanager/
 
 sudo cp ./999-wifi-up-down.sh /etc/NetworkManager/dispatcher.d/
 sudo chown root:root /etc/NetworkManager/dispatcher.d/999-wifi-up-down.sh
